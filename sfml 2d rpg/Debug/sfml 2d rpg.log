@@ -1,5 +1,5 @@
 ﻿  Game.cpp
-C:\Users\ffff\source\repos\sfml 2d rpg\sfml 2d rpg\Game.cpp(39,15): warning C4101: 'event': unreferenced local variable
+C:\Users\ffff\source\repos\sfml 2d rpg\sfml 2d rpg\Game.cpp(41,15): warning C4101: 'event': unreferenced local variable
   main.cpp
   Generating Code...
   sfml 2d rpg.vcxproj -> C:\Users\ffff\source\repos\sfml 2d rpg\Debug\sfml 2d rpg.exe

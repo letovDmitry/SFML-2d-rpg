@@ -1,0 +1,3 @@
+C:\Users\ffff\source\repos\sfml 2d rpg\Debug\sfml 2d rpg.pdb
+C:\Users\ffff\source\repos\sfml 2d rpg\sfml 2d rpg\Debug\sfml 2d rpg.exe
+C:\Users\ffff\source\repos\sfml 2d rpg\sfml 2d rpg\Debug\sfml 2d rpg.pdb

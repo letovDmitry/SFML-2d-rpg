@@ -2,9 +2,6 @@
 #define GAME_H
 #include"State.h"
 
-
-
-
 class Game
 {
 private:
